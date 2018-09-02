@@ -1,0 +1,9 @@
+{
+    "python.pythonPath": "~/dev/python/.venvs/advancedpythoncoursera/bin/python3",
+    "python.venvFolders": [
+        "envs",
+        ".pyenv",
+        ".direnv",
+        "~/dev/python/.venvs"
+    ]
+}
